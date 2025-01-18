@@ -67,8 +67,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🤝 Acknowledgments
 Special thanks to all contributors and open-source projects that inspired this work!
-```
 
----
 
 
