@@ -1,6 +1,3 @@
-
-### **`README.md`**
-
 ```markdown
 # Library Management System
 
