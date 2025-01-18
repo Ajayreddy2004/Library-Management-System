@@ -45,20 +45,17 @@ cd Library-Management-System
 1. **Home Page**
    ![Home Page](images/shot1.png)
 
-2. **Add Book Page**
+2. **Home Page**
    ![Add Book Page](images/shot2.png)
 
-3. **Member Management Page**
+3. **Add Book Page**
    ![Member Management Page](images/shot3.png)
 
-4. **Borrow Book Page**
+4. **Add Member**
    ![Borrow Book Page](images/shot4.png)
 
-5. **Return Book Page**
+5. **Transaction Page**
    ![Return Book Page](images/shot5.png)
-
-6. **Search Results Page**
-   ![Search Results Page](images/shot6.png)
 
 ---
 
