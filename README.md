@@ -75,12 +75,4 @@ Special thanks to all contributors and open-source projects that inspired this w
 
 ---
 
-### **How to Add this `README.md` to Your Repository**
-1. Create a new file named `README.md` in the root of your repository.
-2. Copy and paste the content above into the file.
-3. Commit and push the changes:
-   ```bash
-   git add README.md
-   git commit -m "Add README.md file"
-   git push origin main
-   ```
+
