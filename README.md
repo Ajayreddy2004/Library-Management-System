@@ -37,6 +37,8 @@ cd Library-Management-System
 1. Open the `index.html` file in your web browser.
 2. Start using the Library Management System.
 
+(Or use the Live Server Extension in VS Code to run the index.html file.)
+
 ---
 
 ## ⚙️ How It Works
